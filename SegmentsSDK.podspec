@@ -12,7 +12,10 @@ Pod::Spec.new do |s|
   s.version          = '1.4.1'
   s.summary          = "The best Analytics and Segments SDK on the Planet!"
   s.description      = <<-DESC
-                       Just add pod, install and oh joy!
+                       Segment intelligence and Analytics framework that enables you to track user activity, 
+                       installed apps and fetch Segments related to their phone Location/Use habits.
+
+                       Have plugins for Unity and Android.
                        DESC
   s.homepage         = "https://github.com/brbulic/MetrixSDK-iOS"
   s.license          = 'MIT'
