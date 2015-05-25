@@ -17,10 +17,10 @@ Pod::Spec.new do |s|
 
                        Have plugins for Unity and Android.
                        DESC
-  s.homepage         = "https://github.com/brbulic/MetrixSDK-iOS"
+  s.homepage         = "http://apptient.com/"
   s.license          = 'MIT'
   s.author           = { "Bruno Bulic" => "brbulic@gmail.com" }
-  s.source           = { :git => "https://github.com/brbulic/MetrixSDK-iOS.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/APPTIENT/SegmentsSDK", :tag => s.version.to_s }
 
   s.platform     = :ios
 
