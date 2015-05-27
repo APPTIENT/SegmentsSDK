@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "APPTIENT-Segments"
+  s.name             = "SegmentsSDK"
   s.version          = '1.4.1'
   s.summary          = "The best Analytics and Segments SDK on the Planet!"
   s.description      = <<-DESC
