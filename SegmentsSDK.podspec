@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SegmentsSDK"
-  s.version          = '1.4.1'
+  s.version          = '1.4.1.0'
   s.summary          = "The best Analytics and Segments SDK on the Planet!"
   s.description      = <<-DESC
                        Segment intelligence and Analytics framework that enables you to track user activity, 
