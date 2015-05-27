@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "SegmentsSDK"
+  s.name             = "APPTIENT-Segments"
   s.version          = '1.4.1'
   s.summary          = "The best Analytics and Segments SDK on the Planet!"
   s.description      = <<-DESC
@@ -23,6 +23,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/APPTIENT/SegmentsSDK.git", :tag => s.version.to_s }
 
   s.platform     = :ios
+  s.deprecated_in_favor_of = 'Apptient-Segments-SDK'
 
   s.source_files = ['Pod/**/*.h']
   s.libraries = ['z']
