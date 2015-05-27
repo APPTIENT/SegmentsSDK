@@ -28,6 +28,6 @@ Pod::Spec.new do |s|
   s.source_files = ['Pod/**/*.h']
   s.libraries = ['z']
   s.frameworks = ['CoreTelephony', 'SystemConfiguration', 'CoreLocation']
-  s.vendored_libraries = ["Pod/libSegmentsSDK_#{s.version}.a"]
+  s.vendored_libraries = ["Pod/libSegmentsSDK_1.4.1.a"]
 
 end
